@@ -1,11 +1,10 @@
 
 language: csharp
 mono: none
-sudo: false
+
 dist: bionic
 dotnet: 8.0
-before_install:
-- sudo apt-get install -y dotnet-runtime-8.0
+
 script:
 - dotnet --version
 - cd ./TestingExercise/TestingExercise/TestProject1
