@@ -1,0 +1,14 @@
+© https://it-kariera.mon.bg/e-learning/. Този документ използва лиценз CC-BY-NC-SA. Стр. 14 от 16
+language: csharp
+mono: none
+sudo: false
+dist: bionic
+dotnet: 8.0
+before_install:
+- sudo apt-get install -y dotnet-runtime-2.2
+script:
+- dotnet --version
+- cd ./TestingExercise/TestingExercise/TestProject1
+- dotnet restore
+- dotnet build
+- dotnet test ./TestProject1.csproj
