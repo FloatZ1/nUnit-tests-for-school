@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\hero\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\hero\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\testproject1\\moq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\moq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\testproject1\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\testproject1\\monstertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\monstertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\testproject1\\combatprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\combatprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\testproject1\\weapontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51613CC0-8E1B-402F-9A8E-E067E2896627}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\weapontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\combatprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\combatprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\weapon\\twohandsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\weapon\\twohandsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\weapon\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\weapon\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\weapon\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\weapon\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\weapon\\baseweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\weapon\\baseweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\monster\\medusathegorgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\monster\\medusathegorgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\monster\\giantworm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\monster\\giantworm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\monster\\basemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\monster\\basemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\hero\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\hero\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\hero\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\hero\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\implementation\\hero\\hunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\implementation\\hero\\hunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\contract\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\contract\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\contract\\imonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\contract\\imonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\contract\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\contract\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\contract\\icombatprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\contract\\icombatprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\constant\\weaponconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\constant\\weaponconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\constant\\monsterconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\constant\\monsterconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|c:\\users\\floatz\\downloads\\testingexercise\\testingexercise\\heroesgame\\constant\\heroconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257801E9-4F5C-4B56-9C9E-BDDF74B2CBC2}|HeroesGame\\HeroesGame.csproj|solutionrelative:heroesgame\\constant\\heroconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1194,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moq.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\Moq.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Moq.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\Moq.cs",
+              "RelativeToolTip": "TestProject1\\Moq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:04:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonsterTests.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\MonsterTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\MonsterTests.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\MonsterTests.cs",
+              "RelativeToolTip": "TestProject1\\MonsterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:03:23.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawCoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:48:28.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseHero.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Hero\\BaseHero.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Hero\\BaseHero.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Hero\\BaseHero.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Hero\\BaseHero.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAxwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:35.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CombatProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\CombatProcessorTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\CombatProcessorTests.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\CombatProcessorTests.cs",
+              "RelativeToolTip": "TestProject1\\CombatProcessorTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:03:57.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeaponTests.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\WeaponTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\WeaponTests.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\WeaponTests.cs",
+              "RelativeToolTip": "TestProject1\\WeaponTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:02:44.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarriorTests.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\WarriorTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\WarriorTests.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\TestProject1\\WarriorTests.cs",
+              "RelativeToolTip": "TestProject1\\WarriorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:02:09.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bow.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Weapon\\Bow.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Weapon\\Bow.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Weapon\\Bow.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Weapon\\Bow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:50:12.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Weapon\\Staff.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Weapon\\Staff.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Weapon\\Staff.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Weapon\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:50:17.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Weapon\\BaseWeapon.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Weapon\\BaseWeapon.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Weapon\\BaseWeapon.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Weapon\\BaseWeapon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:50:08.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MedusaTheGorgon.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Monster\\MedusaTheGorgon.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Monster\\MedusaTheGorgon.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Monster\\MedusaTheGorgon.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Monster\\MedusaTheGorgon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:50:03.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CombatProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\CombatProcessor.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\CombatProcessor.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\CombatProcessor.cs",
+              "RelativeToolTip": "HeroesGame\\CombatProcessor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:34:42.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GiantWorm.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Monster\\GiantWorm.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Monster\\GiantWorm.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Monster\\GiantWorm.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Monster\\GiantWorm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:58.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseMonster.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Monster\\BaseMonster.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Monster\\BaseMonster.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Monster\\BaseMonster.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Monster\\BaseMonster.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:53.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TwoHandSword.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Weapon\\TwoHandSword.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Weapon\\TwoHandSword.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Weapon\\TwoHandSword.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Weapon\\TwoHandSword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:50:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Hero\\Warrior.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Hero\\Warrior.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Hero\\Warrior.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Hero\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:49.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Hero\\Mage.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Hero\\Mage.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Hero\\Mage.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Hero\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:44.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hunter.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Hero\\Hunter.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Implementation\\Hero\\Hunter.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Implementation\\Hero\\Hunter.cs",
+              "RelativeToolTip": "HeroesGame\\Implementation\\Hero\\Hunter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Contract\\IWeapon.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Contract\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Contract\\IWeapon.cs",
+              "RelativeToolTip": "HeroesGame\\Contract\\IWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:30.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMonster.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Contract\\IMonster.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Contract\\IMonster.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Contract\\IMonster.cs",
+              "RelativeToolTip": "HeroesGame\\Contract\\IMonster.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:26.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Contract\\IHero.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Contract\\IHero.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Contract\\IHero.cs",
+              "RelativeToolTip": "HeroesGame\\Contract\\IHero.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:22.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICombatProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Contract\\ICombatProcessor.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Contract\\ICombatProcessor.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Contract\\ICombatProcessor.cs",
+              "RelativeToolTip": "HeroesGame\\Contract\\ICombatProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:16.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeaponConstants.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Constant\\WeaponConstants.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Constant\\WeaponConstants.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Constant\\WeaponConstants.cs",
+              "RelativeToolTip": "HeroesGame\\Constant\\WeaponConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MonsterConstants.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Constant\\MonsterConstants.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Constant\\MonsterConstants.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Constant\\MonsterConstants.cs",
+              "RelativeToolTip": "HeroesGame\\Constant\\MonsterConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:49:04.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HeroConstants.cs",
+              "DocumentMoniker": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Constant\\HeroConstants.cs",
+              "RelativeDocumentMoniker": "HeroesGame\\Constant\\HeroConstants.cs",
+              "ToolTip": "C:\\Users\\FloatZ\\Downloads\\TestingExercise\\TestingExercise\\HeroesGame\\Constant\\HeroConstants.cs",
+              "RelativeToolTip": "HeroesGame\\Constant\\HeroConstants.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:48:48.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
