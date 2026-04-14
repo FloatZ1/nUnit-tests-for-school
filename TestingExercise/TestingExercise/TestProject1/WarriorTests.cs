@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using HeroesGame.Implementation.Hero;
 using HeroesGame.Constant;
-//tippy
+//tipy
 namespace HeroesGame.Tests.Hero
 {
     public class WarriorTests
