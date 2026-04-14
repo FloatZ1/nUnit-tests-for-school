@@ -14,15 +14,21 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    steps:
+ steps:
     - uses: actions/checkout@v4
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
+
     - name: Restore dependencies
-      run: dotnet restore
+      # Add the path to the solution here
+      run: dotnet restore ./TestingExercise/TestingExercise/TestingExercise.sln
+
     - name: Build
-      run: dotnet build --no-restore
+      # And here
+      run: dotnet build ./TestingExercise/TestingExercise/TestingExercise.sln --no-restore
+
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      # And here (or target a specific .csproj for tests)
+      run: dotnet test ./TestingExercise/TestingExercise/TestingExercise.sln --no-build --verbosity normal
