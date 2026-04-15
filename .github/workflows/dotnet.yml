@@ -10,6 +10,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    # Instead of repeating the path for every step, 
+    # we can set a global working directory for this job.
+    defaults:
+      run:
+        working-directory: ./TestingExercise/TestingExercise
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -20,14 +26,10 @@ jobs:
           dotnet-version: 8.0.x
 
       - name: Restore Dependencies
-        # This tells GitHub to run the command inside the subfolder
         run: dotnet restore
-        working-directory: ./TestingExercise
 
       - name: Build Project
         run: dotnet build --no-restore --configuration Release
-        working-directory: ./TestingExercise
 
       - name: Run NUnit Tests
         run: dotnet test --no-build --configuration Release --verbosity normal
-        working-directory: ./TestingExercise
