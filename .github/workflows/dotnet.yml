@@ -17,13 +17,17 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: 8.0.x # Adjust this if using an older version like 6.0 or 7.0
+          dotnet-version: 8.0.x
 
       - name: Restore Dependencies
+        # This tells GitHub to run the command inside the subfolder
         run: dotnet restore
+        working-directory: ./TestingExercise
 
       - name: Build Project
         run: dotnet build --no-restore --configuration Release
+        working-directory: ./TestingExercise
 
       - name: Run NUnit Tests
         run: dotnet test --no-build --configuration Release --verbosity normal
+        working-directory: ./TestingExercise
