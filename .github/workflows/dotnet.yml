@@ -1,4 +1,4 @@
-name: .NET
+name: .NET CI
 
 on:
   push:
@@ -8,24 +8,22 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
- steps:
-    - uses: actions/checkout@v4
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: 8.0.x
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Restore dependencies
-      # Add the path to the solution here
-      run: dotnet restore ./TestingExercise/TestingExercise/TestingExercise.sln
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x # Adjust this if using an older version like 6.0 or 7.0
 
-    - name: Build
-      # And here
-      run: dotnet build ./TestingExercise/TestingExercise/TestingExercise.sln --no-restore
+      - name: Restore Dependencies
+        run: dotnet restore
 
-    - name: Test
-      # And here (or target a specific .csproj for tests)
-      run: dotnet test ./TestingExercise/TestingExercise/TestingExercise.sln --no-build --verbosity normal
+      - name: Build Project
+        run: dotnet build --no-restore --configuration Release
+
+      - name: Run NUnit Tests
+        run: dotnet test --no-build --configuration Release --verbosity normal
